@@ -11,7 +11,7 @@ No prior experience with epidemiological modeling is required.
 
 - **Duration:** 2 hours
 - **Style:** Guided, hands-on hackathon (live demo + participant coding)
-- **Tools:** Google Colab, Python, ChatGPT
+- **Tools:** Google Colab, Python, ChatGPT / Gemini
 - **Setup required:** None (no local installation)
 
 All coding, debugging, and explanation will be **AI-assisted**, with the host demonstrating how ChatGPT can act as a scientific coding co-pilot.
@@ -70,8 +70,6 @@ You will see how to:
 - Request verification (plots, sanity checks)
 - Iterate safely without rewriting everything
 
-Some ChatGPT interactions will be **pre-recorded** to save time and ensure smooth pacing.
-
 ---
 
 ## 🛠 What You Need to Prepare
@@ -107,9 +105,9 @@ You will make your **own editable copy** of the notebook.
 
 1. Introduction to the hackathon & tools
 2. Brief intro to LLMs and ChatGPT for scientific coding
-3. Build and simulate an SIR model
-4. Estimate R₀ from early outbreak growth
-5. Fit model parameters to data
+3. Estimate R₀ from early outbreak growth
+4. Build and simulate an SIR model
+5. Fit model parameters to data (Least squares method)
 6. Likelihood-based inference (Poisson)
 7. Interpreting uncertainty and results
 8. Wrap-up and next steps

@@ -26,10 +26,10 @@ All work is done in **Google Colab** — no local installation required.
 
 The hackathon uses **real outbreak data**:
 
-- **Disease:** Measles  
-- **Location:** Niamey, Niger  
-- **Source:** Grais et al. (2006)  
-- **Data type:** Biweekly measles case counts  
+- **Disease:** Measles
+- **Location:** Niamey, Niger
+- **Source:** Grais et al. (2006)
+- **Data type:** Biweekly measles case counts
 - **Communities:** Three (A, B, C)
 
 Time is measured in **biweeks**, and the modeling assumptions reflect this structure.
@@ -41,10 +41,12 @@ Time is measured in **biweeks**, and the modeling assumptions reflect this struc
 Please read the appropriate guide **before** the hackathon.
 
 ### 🔹 For Participants
+
 👉 **Participant Guide (Pre-Hackathon)**  
-📄 `docs/participants.md` *(link will be added)*
+📄 `docs/participants.md` _(updating)_
 
 This guide explains:
+
 - Hackathon format and agenda
 - Required tools and setup
 - Dataset description
@@ -54,10 +56,12 @@ This guide explains:
 ---
 
 ### 🔹 For Organizers
+
 👉 **Organizer Guide (Pre-Hackathon)**  
-📄 `docs/organizers.md` *(link will be added)*
+📄 `docs/organizers.md` _(updating)_
 
 This guide covers:
+
 - How to prepare the Google Colab notebook
 - Required datasets and materials
 - Pre-recorded ChatGPT demos
@@ -82,18 +86,18 @@ This guide covers:
 │   └── chatgpt_prompts.md
 └── slides/
     └── hackathon_slides.pdf
-````
+```
 
-*(Some files may be added incrementally as the hackathon materials are finalized.)*
+_(Some files may be added incrementally as the hackathon materials are finalized.)_
 
 ---
 
 ## 🛠 Tools Used
 
-* Python 3
-* Google Colab
-* NumPy, SciPy, pandas, matplotlib
-* ChatGPT (LLM-assisted coding and explanation)
+- Python 3
+- Google Colab
+- NumPy, SciPy, pandas, matplotlib
+- ChatGPT (LLM-assisted coding and explanation) or Google Gemini
 
 ---
 
@@ -101,10 +105,10 @@ This guide covers:
 
 Participants will leave with:
 
-* A fully runnable SIR modeling notebook
-* Practical experience in epidemic inference
-* Reusable ChatGPT prompt patterns for scientific coding
-* Ideas for extending models (SEIR, stochastic models, Bayesian inference)
+- A fully runnable SIR modeling notebook
+- Practical experience in epidemic inference
+- Reusable ChatGPT prompt patterns for scientific coding
+- Ideas for extending models (SEIR, stochastic models, Bayesian inference)
 
 ---
 

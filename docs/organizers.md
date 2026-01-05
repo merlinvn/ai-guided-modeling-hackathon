@@ -49,8 +49,8 @@ Prepare **one master notebook** that participants will copy.
 2. Dataset description (Niamey measles)
 3. Imports & configuration
 4. Data loading & exploratory plots
-5. SIR ODE model (biweekly time scale)
-6. Feature-based R₀ estimation
+5. Feature-based R₀ estimation
+6. SIR ODE model (biweekly time scale)
 7. Least squares fitting
 8. Poisson likelihood inference
 9. Profile likelihood / uncertainty
@@ -128,7 +128,7 @@ Slides should **support**, not replace, the notebook.
 - Prioritize:
   - SIR simulation
   - Feature-based R₀
-  - One inference method (Poisson preferred)
+  - One inference method (Least-squares or Likelihood)
 - Profile likelihood is optional if time is tight
 
 ---
