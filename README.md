@@ -43,7 +43,7 @@ Please read the appropriate guide **before** the hackathon.
 ### 🔹 For Participants
 
 👉 **Participant Guide (Pre-Hackathon)**  
-📄 `docs/participants.md` _(updating)_
+📄 [docs/participants.md](docs/participants.md)
 
 This guide explains:
 
@@ -58,7 +58,7 @@ This guide explains:
 ### 🔹 For Organizers
 
 👉 **Organizer Guide (Pre-Hackathon)**  
-📄 `docs/organizers.md` _(updating)_
+📄 [docs/organizers.md](docs/organizers.md)
 
 This guide covers:
 
@@ -78,7 +78,8 @@ This guide covers:
 ├── data/
 │   └── niamey.csv
 ├── notebooks/
-│   └── sir_hackathon.ipynb
+│   ├── sir_llm_hackathon_skeleton.ipynb
+│   └── sir_llm_hackathon_final.ipynb
 ├── docs/
 │   ├── participants.md
 │   └── organizers.md
@@ -89,6 +90,18 @@ This guide covers:
 ```
 
 _(Some files may be added incrementally as the hackathon materials are finalized.)_
+
+---
+
+## 🚀 Open in Google Colab
+
+Click the links below to open the notebooks directly in Google Colab:
+
+- 🧩 **Skeleton Notebook** (for participants to fill in):  
+  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/merlinvn/ai-guided-modeling-hackathon/blob/main/notebooks/sir_llm_hackathon_skeleton.ipynb)
+
+- ✅ **Final Notebook** (completed reference):  
+  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/merlinvn/ai-guided-modeling-hackathon/blob/main/notebooks/sir_llm_hackathon_final.ipynb)
 
 ---
 
